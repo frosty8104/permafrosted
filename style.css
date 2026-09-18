@@ -585,6 +585,9 @@ p {
     font-size: 1.5em;
 }
 /***** BLOG *****/
+#blog {
+    width: 90%;
+}
 #blog h3,
 #blog h2,
 #blog p {
