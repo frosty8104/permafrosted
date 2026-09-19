@@ -585,6 +585,7 @@ p {
     font-size: 1.5em;
 }
 /***** BLOG *****/
+/* add dividing borders for diff sections */
 #blog {
     width: 90%;
 }
@@ -592,6 +593,15 @@ p {
 #blog h2,
 #blog p {
     margin-left: 2%;
+}
+.web-posts {
+    border-bottom: 2px solid #000;
+}
+.WoW-posts,
+.kitty-posts,
+.wave-posts {
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
 }
 @media (max-width: 600px) {
     /* NAV BURGER */
