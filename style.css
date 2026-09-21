@@ -594,6 +594,13 @@ p {
 #blog p {
     margin-left: 2%;
 }
+.web-posts,
+.WoW-posts,
+.kitty-posts,
+.wave-posts,
+.knighted {
+    width: 60%;
+}
 .web-posts {
     border-bottom: 2px solid #000;
 }
@@ -602,6 +609,12 @@ p {
 .wave-posts {
     border-top: 2px solid #000;
     border-bottom: 2px solid #000;
+}
+.knight {
+    border-top: 2px solid #000;
+}
+.sidebar {
+    width: 30%;
 }
 @media (max-width: 600px) {
     /* NAV BURGER */
