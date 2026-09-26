@@ -613,6 +613,12 @@ p {
 .knight {
     border-top: 2px solid #000;
 }
+.red {
+    color: #ff0000;
+}
+.blue {
+    color: #60affe;
+}
 .sidebar {
     width: 30%;
 }
