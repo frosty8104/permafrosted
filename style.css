@@ -594,13 +594,13 @@ p {
 #blog p {
     margin-left: 2%;
 }
-.web-posts,
+/* .web-posts,
 .WoW-posts,
 .kitty-posts,
 .wave-posts,
 .knighted {
     width: 60%;
-}
+} */
 .web-posts {
     border-bottom: 2px solid #000;
 }
@@ -619,9 +619,9 @@ p {
 .blue {
     color: #60affe;
 }
-.sidebar {
+/* .sidebar {
     width: 30%;
-}
+} */
 @media (max-width: 600px) {
     /* NAV BURGER */
     .burger {
